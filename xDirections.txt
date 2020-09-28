@@ -1,0 +1,23 @@
+1. Download Anaconda
+
+2. Open Command Prompt/Anaconda Prompt
+
+3. cd to the project folder
+   
+4. conda update conda
+   
+5. create -n env_dlib python=3.8.2
+
+6. conda activate env_dlib
+
+7. conda install -c conda-forge dlib
+
+8. pip install -r requirements.txt
+
+9. python drowsiness_detect.py
+
+...Wait
+
+Ctrl-C to Exit 
+
+Show code in any IDE
